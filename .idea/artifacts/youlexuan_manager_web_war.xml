@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="youlexuan-manager-web:war">
+    <output-path>$PROJECT_DIR$/youlexuan-manager-web/target</output-path>
+    <root id="archive" name="youlexuan-manager-web.war">
+      <element id="artifact" artifact-name="youlexuan-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="youlexuan-makecode:war">
+    <output-path>$PROJECT_DIR$/youlexuan-makecode/target</output-path>
+    <root id="archive" name="youlexuan-makecode.war">
+      <element id="artifact" artifact-name="youlexuan-makecode:war exploded" />
+    </root>
+  </artifact>
+</component>

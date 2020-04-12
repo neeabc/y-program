@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-cart-interface/youlexuan-cart-interface.iml" filepath="$PROJECT_DIR$/youlexuan-cart-interface/youlexuan-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-cart-service/youlexuan-cart-service.iml" filepath="$PROJECT_DIR$/youlexuan-cart-service/youlexuan-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-cart-web/youlexuan-cart-web.iml" filepath="$PROJECT_DIR$/youlexuan-cart-web/youlexuan-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-common/youlexuan-common.iml" filepath="$PROJECT_DIR$/youlexuan-common/youlexuan-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-content-interface/youlexuan-content-interface.iml" filepath="$PROJECT_DIR$/youlexuan-content-interface/youlexuan-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-content-service/youlexuan-content-service.iml" filepath="$PROJECT_DIR$/youlexuan-content-service/youlexuan-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-dao/youlexuan-dao.iml" filepath="$PROJECT_DIR$/youlexuan-dao/youlexuan-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-makecode/youlexuan-makecode.iml" filepath="$PROJECT_DIR$/youlexuan-makecode/youlexuan-makecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-manager-web/youlexuan-manager-web.iml" filepath="$PROJECT_DIR$/youlexuan-manager-web/youlexuan-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-order-interface/youlexuan-order-interface.iml" filepath="$PROJECT_DIR$/youlexuan-order-interface/youlexuan-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-order-service/youlexuan-order-service.iml" filepath="$PROJECT_DIR$/youlexuan-order-service/youlexuan-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-page-interface/youlexuan-page-interface.iml" filepath="$PROJECT_DIR$/youlexuan-page-interface/youlexuan-page-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-page-service/youlexuan-page-service.iml" filepath="$PROJECT_DIR$/youlexuan-page-service/youlexuan-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-page-web/youlexuan-page-web.iml" filepath="$PROJECT_DIR$/youlexuan-page-web/youlexuan-page-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-parent.iml" filepath="$PROJECT_DIR$/youlexuan-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-pay-interface/youlexuan-pay-interface.iml" filepath="$PROJECT_DIR$/youlexuan-pay-interface/youlexuan-pay-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-pay-service/youlexuan-pay-service.iml" filepath="$PROJECT_DIR$/youlexuan-pay-service/youlexuan-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-pojo/youlexuan-pojo.iml" filepath="$PROJECT_DIR$/youlexuan-pojo/youlexuan-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-portal-web/youlexuan-portal-web.iml" filepath="$PROJECT_DIR$/youlexuan-portal-web/youlexuan-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-search-interface/youlexuan-search-interface.iml" filepath="$PROJECT_DIR$/youlexuan-search-interface/youlexuan-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-search-service/youlexuan-search-service.iml" filepath="$PROJECT_DIR$/youlexuan-search-service/youlexuan-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-search-web/youlexuan-search-web.iml" filepath="$PROJECT_DIR$/youlexuan-search-web/youlexuan-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-seckill-interface/youlexuan-seckill-interface.iml" filepath="$PROJECT_DIR$/youlexuan-seckill-interface/youlexuan-seckill-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-seckill-service/youlexuan-seckill-service.iml" filepath="$PROJECT_DIR$/youlexuan-seckill-service/youlexuan-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-seckill-web/youlexuan-seckill-web.iml" filepath="$PROJECT_DIR$/youlexuan-seckill-web/youlexuan-seckill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-sellergoods-interface/youlexuan-sellergoods-interface.iml" filepath="$PROJECT_DIR$/youlexuan-sellergoods-interface/youlexuan-sellergoods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-sellergoods-service/youlexuan-sellergoods-service.iml" filepath="$PROJECT_DIR$/youlexuan-sellergoods-service/youlexuan-sellergoods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-shop-web/youlexuan-shop-web.iml" filepath="$PROJECT_DIR$/youlexuan-shop-web/youlexuan-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-solr-util/youlexuan-solr-util.iml" filepath="$PROJECT_DIR$/youlexuan-solr-util/youlexuan-solr-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-user-interface/youlexuan-user-interface.iml" filepath="$PROJECT_DIR$/youlexuan-user-interface/youlexuan-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-user-service/youlexuan-user-service.iml" filepath="$PROJECT_DIR$/youlexuan-user-service/youlexuan-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-user-web/youlexuan-user-web.iml" filepath="$PROJECT_DIR$/youlexuan-user-web/youlexuan-user-web.iml" />
+    </modules>
+  </component>
+</project>
