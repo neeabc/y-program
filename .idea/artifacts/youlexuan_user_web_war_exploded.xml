@@ -41,63 +41,7 @@
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.28" />
           <element id="library" level="project" name="Maven: javassist:javassist:3.11.0.GA" />
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
-          <element id="archive" name="youlexuan-user-interface-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="youlexuan-user-interface" />
-          </element>
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-core:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-api:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-base:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-jaxp:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-management-api:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-support:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-util:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-util-json:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-bean:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-browse:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-caffeine-lrucache:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: com.github.ben-manes.caffeine:caffeine:2.7.0" />
-          <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:2.6.0" />
-          <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.3.3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-controlbus:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-dataformat:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-dataset:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-direct:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-directvm:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-file:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-language:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-log:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-mock:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-properties:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-ref:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-rest:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-saga:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-scheduler:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-seda:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-stub:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-timer:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-validator:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-vm:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-xpath:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-xslt:3.0.0-M3" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.11.2" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.11.2" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.11.2" />
-          <element id="archive" name="youlexuan-pojo-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="youlexuan-pojo" />
-          </element>
-          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-solr:1.5.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.11.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
-          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" />
-          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.4" />
-          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpmime:4.2.2" />
-          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient-cache:4.2.2" />
-          <element id="library" level="project" name="Maven: org.apache.solr:solr-solrj:4.10.3" />
-          <element id="library" level="project" name="Maven: org.codehaus.woodstox:wstx-asl:3.2.7" />
-          <element id="library" level="project" name="Maven: org.noggit:noggit:0.5" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.7" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.6.7" />
+          <element id="library" level="project" name="Maven: com.offcn:youlexuan-user-interface:1.0-SNAPSHOT" />
           <element id="archive" name="youlexuan-common-1.0-SNAPSHOT.jar">
             <element id="module-output" name="youlexuan-common" />
           </element>
@@ -110,6 +54,7 @@
           <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-redis:1.7.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-keyvalue:1.1.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.12.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.2.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-cas:4.1.0.RELEASE" />

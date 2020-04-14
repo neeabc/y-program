@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-cart-service" />
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-cart-web" />
@@ -19,6 +16,7 @@
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-seckill-service" />
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-seckill-web" />
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/youlexuan-service-cart" />
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-shop-web" />
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-sms-service" />
     <file type="web" url="file://$PROJECT_DIR$/youlexuan-solr-util" />
@@ -30,6 +28,19 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/youlexuan-cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-order-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-page-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-pay-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-seckill-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-sellergoods-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/youlexuan-user-interface/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">

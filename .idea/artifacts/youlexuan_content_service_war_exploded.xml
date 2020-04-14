@@ -82,16 +82,10 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.7" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.6.7" />
-          <element id="archive" name="youlexuan-sellergoods-interface-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="youlexuan-sellergoods-interface" />
+          <element id="library" level="project" name="Maven: com.offcn:youlexuan-sellergoods-interface:1.0-SNAPSHOT" />
+          <element id="archive" name="youlexuan-interface-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="youlexuan-interface-service" />
           </element>
-          <element id="archive" name="youlexuan-content-interface-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="youlexuan-content-interface" />
-          </element>
-          <element id="library" level="project" name="Maven: org.apache.camel:camel-core:2.23.1" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.11.1" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.11.1" />
-          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.11.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
