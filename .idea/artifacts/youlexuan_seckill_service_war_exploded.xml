@@ -68,7 +68,9 @@
           <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.1" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.32" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.9" />
-          <element id="library" level="project" name="Maven: com.offcn:youlexuan-seckill-interface:1.0-SNAPSHOT" />
+          <element id="archive" name="youlexuan-interface-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="youlexuan-interface-service" />
+          </element>
           <element id="archive" name="youlexuan-common-1.0-SNAPSHOT.jar">
             <element id="module-output" name="youlexuan-common" />
           </element>

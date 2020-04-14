@@ -14,30 +14,21 @@
         <module>youlexuan-shop-web</module>
         <module>youlexuan-dao</module>
         <module>youlexuan-common</module>
-        <module>youlexuan-sellergoods-interface</module>
         <module>youlexuan-manager-web</module>
         <module>youlexuan-makecode</module>
-        <module>youlexuan-content-interface</module>
         <module>youlexuan-content-service</module>
         <module>youlexuan-portal-web</module>
         <module>youlexuan-solr-util</module>
-        <module>youlexuan-search-interface</module>
         <module>youlexuan-search-service</module>
         <module>youlexuan-search-web</module>
-        <module>youlexuan-page-interface</module>
         <module>youlexuan-page-service</module>
         <module>youlexuan-page-web</module>
         <module>youlexuan-user-web</module>
-        <module>youlexuan-user-interface</module>
         <module>youlexuan-user-service</module>
-        <module>youlexuan-cart-interface</module>
         <module>youlexuan-cart-service</module>
         <module>youlexuan-cart-web</module>
-        <module>youlexuan-order-interface</module>
         <module>youlexuan-order-service</module>
-        <module>youlexuan-pay-interface</module>
         <module>youlexuan-pay-service</module>
-        <module>youlexuan-seckill-interface</module>
         <module>youlexuan-seckill-service</module>
         <module>youlexuan-seckill-web</module>
         <module>youlexuan-interface-service</module>

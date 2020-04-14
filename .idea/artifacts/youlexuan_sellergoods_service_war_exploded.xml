@@ -82,7 +82,9 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.7" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.6.7" />
-          <element id="library" level="project" name="Maven: com.offcn:youlexuan-sellergoods-interface:1.0-SNAPSHOT" />
+          <element id="archive" name="youlexuan-interface-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="youlexuan-interface-service" />
+          </element>
         </element>
       </element>
       <element id="directory" name="META-INF">

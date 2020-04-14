@@ -103,7 +103,7 @@
         </dependency>
         <dependency>
             <groupId>com.offcn</groupId>
-            <artifactId>youlexuan-sellergoods-interface</artifactId>
+            <artifactId>youlexuan-interface-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <!-- 身份验证 -->

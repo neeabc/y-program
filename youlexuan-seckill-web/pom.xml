@@ -126,7 +126,7 @@
 
         <dependency>
             <groupId>com.offcn</groupId>
-            <artifactId>youlexuan-seckill-interface</artifactId>
+            <artifactId>youlexuan-interface-service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <!-- 使用dubbo远程调用查询数据结果，需要如下类库 -->
@@ -137,11 +137,6 @@
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.offcn</groupId>
-            <artifactId>youlexuan-pay-interface</artifactId>
-            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
