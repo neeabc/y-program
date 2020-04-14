@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -13,6 +14,7 @@
         <module name="youlexuan-content-interface" />
         <module name="youlexuan-content-service" />
         <module name="youlexuan-dao" />
+        <module name="youlexuan-interface-service" />
         <module name="youlexuan-makecode" />
         <module name="youlexuan-manager-web" />
         <module name="youlexuan-order-interface" />
@@ -47,6 +49,7 @@
       <module name="youlexuan-content-interface" target="1.8" />
       <module name="youlexuan-content-service" target="1.8" />
       <module name="youlexuan-dao" target="1.8" />
+      <module name="youlexuan-interface-service" target="1.8" />
       <module name="youlexuan-makecode" target="1.8" />
       <module name="youlexuan-manager-web" target="1.8" />
       <module name="youlexuan-order-interface" target="1.8" />

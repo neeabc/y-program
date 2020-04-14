@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/youlexuan-content-interface/youlexuan-content-interface.iml" filepath="$PROJECT_DIR$/youlexuan-content-interface/youlexuan-content-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/youlexuan-content-service/youlexuan-content-service.iml" filepath="$PROJECT_DIR$/youlexuan-content-service/youlexuan-content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/youlexuan-dao/youlexuan-dao.iml" filepath="$PROJECT_DIR$/youlexuan-dao/youlexuan-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youlexuan-interface-service/youlexuan-interface-service.iml" filepath="$PROJECT_DIR$/youlexuan-interface-service/youlexuan-interface-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/youlexuan-makecode/youlexuan-makecode.iml" filepath="$PROJECT_DIR$/youlexuan-makecode/youlexuan-makecode.iml" />
       <module fileurl="file://$PROJECT_DIR$/youlexuan-manager-web/youlexuan-manager-web.iml" filepath="$PROJECT_DIR$/youlexuan-manager-web/youlexuan-manager-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/youlexuan-order-interface/youlexuan-order-interface.iml" filepath="$PROJECT_DIR$/youlexuan-order-interface/youlexuan-order-interface.iml" />
