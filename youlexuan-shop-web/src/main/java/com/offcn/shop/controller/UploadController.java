@@ -1,4 +1,5 @@
 package com.offcn.shop.controller;
+import com.offcn.util.FakeFastDFSClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -26,10 +27,13 @@ public class UploadController {
 //2、创建一个 FastDFS 的客户端
             FastDFSClient fastDFSClient = new FastDFSClient("classpath:config/fdfs_client.conf");
             //3、执行上传处理
-            String path = fastDFSClient.uploadFile(file.getBytes(), extName);
+            //String path = fastDFSClient.uploadFile(file.getBytes(), extName);
+            String path = FakeFastDFSClient.uploadFile(file.getBytes(), extName);
 
             //4、拼接返回的 url 和 ip 地址，拼装成完整的 url
-            String url = FILE_SERVER_URL + path;
+            //String url = FILE_SERVER_URL + path;
+            String url = "http://127.0.0.1:8800" + path;
+
             return new Result(true,url);
         } catch (Exception e) {
             e.printStackTrace();

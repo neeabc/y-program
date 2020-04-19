@@ -1,6 +1,7 @@
 package com.offcn.solrutil;
 
 import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONObject;
 import com.offcn.mapper.TbItemMapper;
 import com.offcn.pojo.TbItem;
 import com.offcn.pojo.TbItemExample;

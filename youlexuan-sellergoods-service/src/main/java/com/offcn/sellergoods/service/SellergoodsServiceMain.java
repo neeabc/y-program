@@ -1,13 +1,13 @@
-package com.offcn.cart.service;
+package com.offcn.sellergoods.service;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.io.IOException;
 
-public class DoMain {
+public class SellergoodsServiceMain {
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context =
-                new ClassPathXmlApplicationContext("classpath*:spring/applicationContext-*.xml");
+                new ClassPathXmlApplicationContext("classpath*:spring/applicationContext*.xml");
         context.start();
         try {
             System.in.read();

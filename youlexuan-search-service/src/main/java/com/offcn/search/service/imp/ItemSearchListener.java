@@ -14,6 +14,7 @@ import java.util.Map;
 
 @Component
 public class ItemSearchListener implements MessageListener {
+
     @Autowired
     private ItemSearchService itemSearchService;
 
