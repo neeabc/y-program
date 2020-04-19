@@ -9,7 +9,7 @@
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
     <context:component-scan base-package="com.offcn.pay.service.impl"/>
     <!--加载支付配置文件 -->
-    <context:property-placeholder location="classpath:alipay.properties"/>
+    <context:property-placeholder location="classpath:alipay.properties" ignore-unresolvable="true"/>
     <!-- 创建AlipayClient -->
     <bean id="payClient" class="com.alipay.api.DefaultAlipayClient">
         <constructor-arg name="serverUrl" value="${serverUrl}"/>
@@ -21,7 +21,7 @@
         <constructor-arg name="signType" value="${signType}"/>
     </bean>
 
-    <dubbo:protocol name="dubbo" port="20889"></dubbo:protocol>
+    <dubbo:protocol name="dubbo" port="20889"/>
     <dubbo:application name="youlexuan-pay-service"/>
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
     <dubbo:annotation package="com.offcn.pay.service.impl"/>
