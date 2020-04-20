@@ -9,8 +9,7 @@
     <!-- 引用dubbo 服务 -->
     <dubbo:application name="youlexuan-shop-web" />
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
-    <dubbo:reference id="sellerService"  interface="com.offcn.sellergoods.service.SellerService" >
-    </dubbo:reference>
+    <dubbo:reference id="sellerService"  interface="com.offcn.sellergoods.service.SellerService" />
     <beans:bean id="userDetailService" class="com.offcn.service.UserDetailsServiceImpl">
         <beans:property name="sellerService" ref="sellerService"/>
     </beans:bean>
@@ -41,7 +40,7 @@
     <!-- 认证管理器 -->
     <authentication-manager>
         <authentication-provider user-service-ref="userDetailService">
-            <password-encoder ref="bcryptEncoder"></password-encoder>
+            <password-encoder ref="bcryptEncoder"/>
         </authentication-provider>
     </authentication-manager>
     <!-- 定义自定义认证类 -->

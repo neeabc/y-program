@@ -21,7 +21,7 @@
         <constructor-arg name="signType" value="${signType}"/>
     </bean>
 
-    <dubbo:protocol name="dubbo" port="20889"/>
+    <dubbo:protocol name="dubbo" port="-1"/>
     <dubbo:application name="youlexuan-pay-service"/>
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
     <dubbo:annotation package="com.offcn.pay.service.impl"/>

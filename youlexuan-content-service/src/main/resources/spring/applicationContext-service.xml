@@ -9,7 +9,7 @@
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
     <!--注意port端口号与其他提供者分开 - 20882-->
-    <dubbo:protocol name="dubbo" port="20882"></dubbo:protocol>
+    <dubbo:protocol name="dubbo" port="-1"/>
     <dubbo:application name="youlexuan-content-service"/>
     <!--填写zookeeper所在服务器的ip地址-->
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>

@@ -10,12 +10,12 @@
     
     <bean id="idWorker" class="com.offcn.util.IdWorker">
         <!-- 进程ID -->
-        <constructor-arg index="0" value="0"></constructor-arg>
+        <constructor-arg index="0" value="0"/>
         <!-- 数据中心ID -->
-        <constructor-arg index="1" value="0"></constructor-arg>
+        <constructor-arg index="1" value="0"/>
     </bean>
 
-    <dubbo:protocol name="dubbo" port="20890"></dubbo:protocol>
+    <dubbo:protocol name="dubbo" port="-1"/>
     <dubbo:application name="youlexuan-seckill-service"/>
     <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
     <dubbo:annotation package="com.offcn.seckill.service.impl"/>
